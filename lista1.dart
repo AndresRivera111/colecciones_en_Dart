@@ -1,5 +1,6 @@
 void main() {  
   // Lista de enteros
+  print("Andres Rivera 22308051281295 Grupo 6J");
 List<int> numeros = [10, 20, 30]; 
 print("Lista de enteros:");
 print(numeros);
